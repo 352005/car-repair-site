@@ -36,7 +36,7 @@ body{
   }
   
   body #menubar.show{
-    transform: translateX(10em);
+    transform: translateX(9em);
   }
   
   #menubar .menulogo{
