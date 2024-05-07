@@ -1,3 +1,10 @@
+window.addEventListener('load', () => {
+  window.scrollTo({
+    left: 0,
+    behavior: 'smooth',
+  })
+});
+
 const pic = document.querySelector('.pic');
 const text = document.querySelector('#text');
 const name = document.querySelector('#name');
